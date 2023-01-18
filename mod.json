@@ -1,0 +1,10 @@
+{ 
+     "name": "pixelarts", 
+     "displayName": "[violet]Pixelarts", 
+     "subtitle": "Mod of Dasuas Project", 
+   "author": "mrybs - maintainer, developer", 
+     "description": "Pixelarts mod. Also try Dasuas mod", 
+     "version": 0.1, 
+     "minGameVersion": 140, 
+     "hidden": "false", 
+ }

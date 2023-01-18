@@ -1,0 +1,11 @@
+{
+    "type": "material",
+    "name": "Magic string",
+    "hardness": 1,
+    "cost": 2.0,
+    "color": "ffffff",
+    "tier": 2,
+    "alwaysUnlocked": "true",
+    "explosizeness": 0,
+    "radioactivity": 0.1
+} 
