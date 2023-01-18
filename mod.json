@@ -1,10 +1,10 @@
-{ 
-     "name": "pixelarts", 
-     "displayName": "Pixelarts", 
-     "subtitle": "Mod of Dasuas Project", 
-    "author": "mrybs - maintainer, developer", 
-     "description": "Pixelarts mod. Also try Dasuas mod", 
-     "version": 0.1, 
-     "minGameVersion": 140, 
-     "hidden": "false"
- }
+{
+  "name": "pixelarts",
+  "subtitle": "Create pixelarts with fun!",
+  "displayName": "[violet]Pixelarts",
+  "author": "Mrybs - maintainer, main developer",
+  "description": "Adds many colored blocks",
+  "version": 0.1,
+  "minGameVersion": 140,
+  "hidden": false
+}
