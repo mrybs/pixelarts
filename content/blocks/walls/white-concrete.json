@@ -1,0 +1,14 @@
+{
+  "type": "Wall",
+  "name": "White concrete",
+  "health": 300,
+  "size": 1,
+  "requirements": [
+    {
+      "amount": 6,
+      "name": "magic-concrete"
+    }
+  ],
+  "category": "defense",
+  "research": "copper-wall"
+}
