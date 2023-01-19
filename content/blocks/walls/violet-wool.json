@@ -1,0 +1,11 @@
+{
+    "type": "Wall",
+    "name": "Violet wool",
+    "health": 200,
+    "size": 1,
+    "requirements": [
+        {"item": "magic-string", "amount": 6}
+    ],
+    "category": "defense",
+    "research": "copper-wall"
+} 
