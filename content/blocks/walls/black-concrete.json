@@ -1,0 +1,12 @@
+{
+  "type": "Wall",
+  "name": "Black concrete",
+  "health": 300,
+  "size": 1,
+  "requirements": [
+    {"name": "sand", "amount": 5},
+    {"name": "scrap", "amount": 1}
+  ],
+  "category": "defense",
+  "research": "copper-wall"
+}
