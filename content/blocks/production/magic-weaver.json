@@ -1,0 +1,30 @@
+{
+    "type": "GenericCrafter",
+    "name": "Magic weaver",
+    "health": 550,
+    "size": 2,
+    "requirements": [
+        {"item": "copper", "amount": 75},
+        {"item": "silicon", "amount": 10},
+        {"item": "lead", "amount": 30}
+    ],
+    "category": "crafting",
+    "research": "core-shard",
+    "hasPower": "true",
+    "hasItems": "true",
+    "itemCapcity": 50,
+    "flameColor": "ff8877",
+    "outputItem": {"item": "magic-string", "amount": 8},
+    "craftTime": 70,
+    "consumes": {
+        "power": 1,
+        "items": {
+            "items": [
+                {"item": "metaglass", "amount": 1},
+                {"item": "phase-fabric", "amount": 2}
+            ]
+        }
+    },
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5
+}

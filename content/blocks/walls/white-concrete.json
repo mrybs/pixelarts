@@ -4,10 +4,8 @@
   "health": 300,
   "size": 1,
   "requirements": [
-    {
-      "amount": 6,
-      "name": "magic-concrete"
-    }
+    {"amount": 5, "name": "sand"},
+    {"amount": 1, "name": "scrap"},
   ],
   "category": "defense",
   "research": "copper-wall"
